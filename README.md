@@ -6,7 +6,7 @@ Modern coffee shop website with full e-commerce functionality and interactive fe
 
 ## 🌟 Features
 
-### 🛒 Core Functionality
+
 - Interactive shopping cart
 - Product catalog with filtering
 - Customer review system
