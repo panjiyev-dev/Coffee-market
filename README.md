@@ -4,7 +4,6 @@ Modern coffee shop website with full e-commerce functionality and interactive fe
 
 **Live Demo:** [coffee-marker.netlify.app](https://coffee-marker.netlify.app/)
 
-## 🌟 Features
 
 ### 🛒 Core Functionality
 - Interactive shopping cart
