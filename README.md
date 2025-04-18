@@ -1,10 +1,9 @@
-# Coffee Market ☕
+j# Coffee Market ☕
 
 Modern coffee shop website with full e-commerce functionality and interactive features.
 
 **Live Demo:** [coffee-marker.netlify.app](https://coffee-marker.netlify.app/)
 
-## 🌟 Features
 
 ### 🛒 Core Functionality
 - Interactive shopping cart
